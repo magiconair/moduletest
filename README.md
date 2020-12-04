@@ -1,0 +1,2 @@
+# moduletest
+go module test
