@@ -1,3 +1,3 @@
 module github.com/magiconair/moduletest
 
-go 1.15
+go 1.23
